@@ -1,6 +1,6 @@
 Olá, sou Luis Eduardo
 
-- 🌱 Aprendendo Programação / Desenvolvimento em TI
+- 🌱 Desenvolvedor Jr  C# | .NET | ASP.NET Core | JavaScript | React | MySQL | SQL Server.
 - 📫 Contate-me no email: leoliveir81@gmail.com
 <div align="center">
   <a href="https://github.com/LuisEduardoGois">
