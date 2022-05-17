@@ -1,6 +1,6 @@
 Olá, sou Luis Eduardo
 
-- 🌱 Desenvolvedor Jr  C# | .NET | ASP.NET Core | JavaScript | React | MySQL | SQL Server.
+- 🌱 Desenvolvedor Jr  C# | .NET | ASP.NET Core | Angular | MySQL | SQL Server | JavaScript.
 - 📫 Contate-me no email: leoliveir81@gmail.com
 <div align="center">
   <a href="https://github.com/LuisEduardoGois">
