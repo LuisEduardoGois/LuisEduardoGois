@@ -1,6 +1,6 @@
 Olá, sou Luis Eduardo
 
-- 🌱 Desenvolvedor C# | .NET | ASP.NET Core | Angular | SQL Server |  MySQL | JavaScript.
+- 🌱 Desenvolvedor C# | .NET | ASP.NET Core | Angular | SQL Server |  MySQL.
 - 📫 Contate-me no email: leoliveir81@gmail.com
 <div align="center">
   <a href="https://github.com/LuisEduardoGois">
