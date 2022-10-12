@@ -1,6 +1,6 @@
 Olá, sou Luis Eduardo
 
-- 🌱 Desenvolvedor C# | .NET | ASP.NET Core | Angular | SQL Server |  MySQL.
+- 🌱 Futuro Analista de Testes e Qualidade de Software (QA).
 - 📫 Contate-me no email: leoliveir81@gmail.com
 <div align="center">
   <a href="https://github.com/LuisEduardoGois">
